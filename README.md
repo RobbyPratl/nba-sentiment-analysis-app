@@ -1,2 +1,2 @@
 # NBA Sentiment Analysis App
-This app fetches tweets about NBA teams, analyzes sentiment, and serves data to the frontend.
+This app fetches news articles about NBA teams, analyzes sentiment, and serves a sentiment score to the frontend.
